@@ -1,0 +1,22 @@
+-Open run (Win + r)
+-run mstsc /admin
+
+IP : 129.213.95.146
+username :  Bot-user2
+Password: VJp6s4Jux7EDatbx
+
+
+open VM detail's.txt file from desktop
+copy password
+
+open task manager
+open users 
+right click on RPA-user and click on connect 
+give password 
+
+
+gotot path  C:\RPA_Flows\kpmg_api
+type cmd on path
+
+run 
+- pm2 start index.js --name api

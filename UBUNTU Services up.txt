@@ -1,0 +1,23 @@
+IP: 129.213.130.45
+
+User: ubuntu
+ppk file 
+
+
+Camunda URL
+https://kpmg-renewpower.development.techforce.ai/techforce/app/tasklist/default/#/login
+Testuser1
+Testuser1
+
+
+2. Connect to Putty.
+3. enter docker ps(for status)  -     docker ps
+4. ls (list of files and folders)
+5. cd uwm 
+6. docker-compose down && docker-compose up -d
+7. cd .. 
+8. cd cx-component
+9. cd ngnix
+10. docker-compose down && docker-compose up -d
+
+
